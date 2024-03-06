@@ -1,4 +1,4 @@
-# Restaurants-Data-Analysis-Python
+# Restaurants-Data-Analysis-Python (Download the Zip file to see the project )
 
 Our project tackled business challenges through a structured three-level approach encompassing 11 tasks. Level 1 involved data collection and cleaning,
 ensuring the reliability of our analysis. Level 2 focused on exploratory data analysis, customer segmentation, and menu analysis to uncover key insights. 
