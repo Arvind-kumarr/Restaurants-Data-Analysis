@@ -1,4 +1,3 @@
-# Resturant-Store-Analysis
 # Restaurants-Data-Analysis-Python
 
 Our project tackled business challenges through a structured three-level approach encompassing 11 tasks. Level 1 involved data collection and cleaning,
